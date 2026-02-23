@@ -4,17 +4,18 @@ This repository contains quantitative finance projects focused on systematic tra
 
 ## Projects
 
-### 1. Moving Average Crossover Strategy
+### 1. Monte Carlo Risk Simulation
+- Simulated future asset price paths using probabilistic modeling
+- Estimated expected returns and downside risk
+- Calculated confidence intervals and probability metrics
+- Visualized outcome distributions and simulated scenarios
+
+ ### 2. Moving Average Crossover Strategy
 - Vectorized backtesting using Pandas
 - Trading signal generation using moving averages
 - Performance evaluation with Sharpe ratio, CAGR, and drawdown
 - Visualization of equity curve and returns distribution
 
-### 2. Monte Carlo Risk Simulation
-- Simulated future asset price paths using probabilistic modeling
-- Estimated expected returns and downside risk
-- Calculated confidence intervals and probability metrics
-- Visualized outcome distributions and simulated scenarios
 
 ## Technologies Used
 - Python
