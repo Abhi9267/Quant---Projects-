@@ -1,2 +1,27 @@
-# Quant---Projects-
-Quantitative finance projects including trading strategies and Monte Carlo risk modeling in Python.
+# Quant Projects (Python)
+
+This repository contains quantitative finance projects focused on systematic trading strategies and financial risk modeling using Python.
+
+## Projects
+
+### 1. Moving Average Crossover Strategy
+- Vectorized backtesting using Pandas
+- Trading signal generation using moving averages
+- Performance evaluation with Sharpe ratio, CAGR, and drawdown
+- Visualization of equity curve and returns distribution
+
+### 2. Monte Carlo Risk Simulation
+- Simulated future asset price paths using probabilistic modeling
+- Estimated expected returns and downside risk
+- Calculated confidence intervals and probability metrics
+- Visualized outcome distributions and simulated scenarios
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- yfinance
+
+## Author
+Abhishek Paul
