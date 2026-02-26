@@ -10,12 +10,6 @@ This repository contains quantitative finance projects focused on systematic tra
 - Calculated confidence intervals and probability metrics
 - Visualized outcome distributions and simulated scenarios
 
- ### 2. Moving Average Crossover Strategy
-- Vectorized backtesting using Pandas
-- Trading signal generation using moving averages
-- Performance evaluation with Sharpe ratio, CAGR, and drawdown
-- Visualization of equity curve and returns distribution
-
 
 ## Technologies Used
 - Python
